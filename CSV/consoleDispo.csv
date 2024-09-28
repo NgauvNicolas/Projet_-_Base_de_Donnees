@@ -1,0 +1,8 @@
+id_prod,nom_prod,prix,qteDispo,portabilite,constructeur
+3001,Nintendo Switch,299.99,300,Hybride,Nintendo
+3002,Nintendo Switch Lite,199.99,200,Portable,Nintendo
+3004,New Nintendo 3DS,169.99,30,Portable,Nintendo
+3006,PlayStation 4,249.99,300,Salon,Sony
+3007,PlayStation 3,119.99,10,Salon,Sony
+3008,PlayStation Vita,149.99,12,Portable,Sony
+3009,Xbox One,249.99,1,Salon,Microsoft

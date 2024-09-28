@@ -1,0 +1,4 @@
+id_cmd,id_prod,cause,date_demande,retour_effectif,nb_exemplaire
+110,1538,Le jeu ne marche pas,2020-06-02,true,1
+119,1625,Le jeu est defectueux,2021-05-20,false,1
+120,1606,Ce n’est pas le bon produit,2021-05-06,true,1

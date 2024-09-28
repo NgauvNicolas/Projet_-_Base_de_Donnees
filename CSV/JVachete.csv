@@ -1,0 +1,14 @@
+id_prod,nom_prod,prix,qteVendu,genre,multijoueur,plateforme
+1444,Cooking Mama 2: Dinner with Friends,17.95,2,Simulation,false,Nintendo DS
+1610,Fire Emblem: Radiant Dawn,34.95,1,"Role-Playing (RPG),Strategy",false,Nintendo Wii
+2097,Madagascar: Escape 2 Africa,24.95,1,Action,true,PlayStation 3
+1058,Phoenix Wright: Ace Attorney,24.95,1,"Adventure,Simulation",false,Nintendo DS
+1163,Cooking Mama,17.95,2,Simulation,false,Nintendo DS
+1176,Rayman Raving Rabbids,17.95,1,Action,true,Nintendo Wii
+1213,SpongeBob SquarePants: The Yellow Avenger,12.95,1,Action,false,Sony PSP
+1100,Shrek SuperSlam,11.95,2,Action,false,Nintendo DS
+1139,PQ: Practical Intelligence Quotient,14.95,1,Strategy,false,Sony PSP
+1494,The Simpsons Game,17.95,4,Action,false,Nintendo DS
+1625,Ratatouille,16.95,1,Action,true,Xbox 360
+1285,Superman Returns,7.95,1,Action,false,Xbox 360
+1331,Magical Starsign,9.95,1,Role-Playing (RPG),false,Nintendo DS
